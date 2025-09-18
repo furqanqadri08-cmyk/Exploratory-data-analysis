@@ -1,0 +1,1001 @@
+,ID,Name,Age,City,Product,Price,Quantity,Feedback
+0,1,Bob,19,New York,Shoes,135.41,2,Average
+1,2,Judy,20,New York,Shirt,306.92,4,Average
+2,3,Frank,47,Miami,Shirt,465.8,4,Good
+3,4,Hannah,20,New York,Shoes,250.79,-1,Average
+4,5,Judy,40,Miami,Pants,49.18,5,Good
+5,6,Frank,21,Dallas,Watch,39.74,2,Average
+6,7,Alice,20,Houston,Bag,469.74,1,Good
+7,8,Grace,20,Chicago,Shirt,190.84,1,Bad
+8,9,Eve,21,Miami,Tie,413.59,5,Average
+9,10,David,52,Chicago,Hat,29.92,2,Average
+10,11,Bob,21,Miami,Watch,158.91,5,Good
+11,12,unknown,21,New York,Socks,480.69,2,Good
+12,13,Bob,21,New York,Socks,365.33,2,Average
+13,14,Judy,21,Chicago,Shoes,102.84,1,Average
+14,15,David,41,Dallas,Socks,131.89,4,Good
+15,16,Judy,43,Chicago,Socks,97.66,2,Average
+16,17,Judy,20,Los Angeles,Shoes,213.44,3,Average
+17,18,Ivan,21,Los Angeles,Shoes,322.93,2,Excellent
+18,19,Alice,21,Miami,Socks,234.77,-1,Good
+19,20,Alice,21,Los Angeles,Shirt,442.58,2,Good
+20,21,Frank,21,Miami,Bag,98.39,1,Average
+21,22,David,20,San Francisco,Shoes,175.38,4,Bad
+22,23,Charlie,20,Dallas,Tie,499.23,5,Average
+23,24,Ivan,20,Los Angeles,Shirt,182.64,4,Average
+24,25,David,25,Miami,Tie,495.82,5,Average
+25,26,Bob,21,Phoenix,Shoes,192.14,3,Excellent
+26,27,Hannah,21,Miami,Shirt,220.99,2,Average
+27,28,David,21,Chicago,Shoes,308.12,1,Bad
+28,29,Ivan,66,Chicago,Bag,114.82,3,Good
+29,30,David,20,San Francisco,Shirt,463.81,2,Excellent
+30,31,David,21,Miami,Watch,481.21,5,Average
+31,32,Frank,50,Miami,Watch,204.57,1,Bad
+32,33,Charlie,20,Chicago,Tie,491.65,1,Excellent
+33,34,Ivan,20,Chicago,Shirt,263.63,2,Bad
+34,35,Alice,21,Dallas,Watch,157.9,5,Average
+35,36,Eve,21,Miami,Shoes,118.72,4,Average
+36,37,Charlie,20,Houston,Socks,20.63,-1,Good
+37,38,Charlie,50,Dallas,Socks,347.96,4,Average
+38,39,Hannah,20,Chicago,Shoes,281.29,-1,Bad
+39,40,Eve,38,San Francisco,Shoes,463.7,2,Good
+40,41,Charlie,20,Phoenix,Pants,28.49,4,Average
+41,42,Bob,21,Phoenix,Bag,77.82,1,Average
+42,43,Judy,21,Chicago,Hat,295.26,2,Bad
+43,44,Alice,20,Chicago,Pants,407.43,2,Excellent
+44,45,Charlie,21,New York,Socks,205.9,2,Excellent
+45,46,Alice,20,Dallas,Bag,369.79,2,Average
+46,47,Frank,21,San Francisco,Watch,398.52,-1,Average
+47,48,David,70,Dallas,Pants,414.6,-1,Average
+48,49,Ivan,21,New York,Watch,292.35,-1,Good
+49,50,Frank,61,Chicago,Shoes,301.66,3,Average
+50,51,Alice,20,Dallas,Shoes,368.09,3,Average
+51,52,Charlie,20,Miami,Bag,48.45,2,Average
+52,53,Eve,20,Dallas,Bag,387.74,4,Average
+53,54,Alice,20,Houston,Pants,410.4,4,Bad
+54,55,Charlie,21,Dallas,Shirt,435.24,2,Average
+55,56,Mallory,20,Los Angeles,Shoes,121.09,4,Average
+56,57,Grace,54,Miami,Shoes,305.13,-1,Excellent
+57,58,Hannah,64,Chicago,Tie,250,2,Average
+58,59,Bob,21,Miami,Tie,197.42,5,Average
+59,60,Mallory,20,Los Angeles,Socks,30.18,2,Bad
+60,61,Bob,20,Houston,Bag,83.29,-1,Excellent
+61,62,unknown,21,Miami,Bag,118.19,3,Bad
+62,63,unknown,20,Miami,Shirt,368.47,2,Average
+63,64,Frank,33,Chicago,Watch,228.35,2,Bad
+64,65,Hannah,20,Los Angeles,Hat,257.32,2,Average
+65,66,Ivan,25,Miami,Shoes,151.99,4,Average
+66,67,Bob,21,Miami,Hat,74.77,2,Bad
+67,68,unknown,21,New York,Socks,290.01,4,Average
+68,69,Hannah,21,Phoenix,Bag,250,-1,Average
+69,70,David,62,Houston,Pants,51.69,2,Good
+70,71,Ivan,20,Houston,Pants,389.17,1,Average
+71,72,Alice,20,Los Angeles,Pants,76.09,3,Average
+72,73,Mallory,20,Miami,Hat,249.05,3,Excellent
+73,74,Judy,64,Phoenix,Tie,106.09,2,Average
+74,75,Hannah,63,Los Angeles,Watch,370.48,5,Average
+75,76,Eve,51,New York,Hat,45.11,4,Bad
+76,77,unknown,21,New York,Shirt,168.47,2,Average
+77,78,Judy,21,San Francisco,Pants,53.9,3,Average
+78,79,Alice,21,Miami,Tie,217.53,5,Good
+79,80,Alice,38,San Francisco,Shoes,167.16,2,Bad
+80,81,unknown,20,Chicago,Bag,21.86,2,Average
+81,82,Grace,20,San Francisco,Shoes,493.95,4,Average
+82,83,Grace,20,Miami,Bag,495.18,1,Excellent
+83,84,Judy,20,San Francisco,Shirt,81.45,1,Average
+84,85,Bob,20,Miami,Watch,250,4,Average
+85,86,unknown,20,Miami,Shirt,107.85,2,Excellent
+86,87,Mallory,20,San Francisco,Watch,381.29,-1,Excellent
+87,88,unknown,48,Los Angeles,Shirt,65.06,3,Average
+88,89,Bob,21,Miami,Hat,474.98,2,Average
+89,90,Bob,21,Dallas,Tie,435.69,4,Average
+90,91,Frank,21,Houston,Shoes,16.73,2,Average
+91,92,Ivan,21,Chicago,Shoes,64.53,2,Average
+92,93,Charlie,63,Miami,Shoes,21.15,2,Average
+93,94,Bob,20,Los Angeles,Pants,273.62,4,Average
+94,95,Charlie,21,New York,Hat,266.4,2,Average
+95,96,Eve,21,Phoenix,Shirt,246.68,4,Good
+96,97,Ivan,20,New York,Watch,79.26,2,Average
+97,98,Judy,21,New York,Tie,19.01,5,Good
+98,99,Ivan,20,Phoenix,Shirt,335.13,3,Average
+99,100,Hannah,20,Los Angeles,Hat,250,1,Good
+100,101,Mallory,21,Los Angeles,Shoes,149.17,1,Bad
+101,102,Frank,21,New York,Shoes,312.8,5,Average
+102,103,Grace,67,Chicago,Shoes,330.83,1,Average
+103,104,Ivan,36,San Francisco,Shoes,250,1,Bad
+104,105,Hannah,20,Chicago,Tie,142.94,3,Average
+105,106,Eve,21,Los Angeles,Watch,333.45,2,Average
+106,107,unknown,20,Los Angeles,Tie,19.35,4,Average
+107,108,Hannah,20,Los Angeles,Pants,328.21,3,Bad
+108,109,Ivan,48,New York,Tie,196.54,5,Average
+109,110,Grace,20,Dallas,Tie,58.81,2,Average
+110,111,Bob,20,Dallas,Shoes,434.72,-1,Average
+111,112,Mallory,21,Miami,Shoes,101.34,5,Average
+112,113,Bob,26,New York,Socks,234.41,2,Good
+113,114,Judy,20,San Francisco,Pants,20.53,2,Average
+114,115,Judy,55,Chicago,Shoes,269.41,-1,Bad
+115,116,Hannah,33,Dallas,Shoes,202.77,1,Average
+116,117,Mallory,20,San Francisco,Hat,179.92,1,Excellent
+117,118,David,20,Chicago,Hat,316.36,3,Good
+118,119,Grace,32,New York,Socks,489.34,5,Average
+119,120,unknown,21,Los Angeles,Watch,407.83,5,Average
+120,121,David,20,New York,Shoes,440.55,4,Average
+121,122,Grace,48,Houston,Pants,409.28,3,Good
+122,123,Frank,61,Houston,Shirt,250,4,Good
+123,124,unknown,20,San Francisco,Shoes,147.29,2,Good
+124,125,Grace,21,San Francisco,Shoes,449.62,3,Average
+125,126,Grace,21,San Francisco,Shoes,53.02,2,Excellent
+126,127,Mallory,20,Phoenix,Shirt,480.7,5,Good
+127,128,Bob,21,Phoenix,Watch,316.51,1,Average
+128,129,Frank,21,Phoenix,Shoes,127.78,5,Average
+129,130,Grace,59,Houston,Bag,485.56,2,Good
+130,131,Frank,67,Los Angeles,Shirt,171.35,3,Average
+131,132,Judy,20,New York,Pants,111.31,2,Average
+132,133,Eve,20,San Francisco,Tie,275.26,5,Average
+133,134,Frank,20,Dallas,Shirt,432.67,4,Excellent
+134,135,Charlie,20,Dallas,Watch,355.52,3,Average
+135,136,Judy,44,Miami,Pants,76.27,4,Good
+136,137,unknown,21,Chicago,Bag,488.13,2,Good
+137,138,Bob,21,New York,Hat,467.18,1,Excellent
+138,139,Bob,20,New York,Watch,165.57,3,Average
+139,140,Bob,36,New York,Shirt,474.81,2,Excellent
+140,141,Bob,21,San Francisco,Shirt,165.62,5,Average
+141,142,Grace,20,Los Angeles,Shoes,366.27,4,Excellent
+142,143,Bob,21,Phoenix,Bag,441.26,2,Excellent
+143,144,Mallory,21,Dallas,Shoes,211.51,3,Good
+144,145,Mallory,20,Miami,Tie,467.55,1,Excellent
+145,146,Frank,21,Houston,Tie,467.29,3,Bad
+146,147,Charlie,20,Los Angeles,Socks,391.76,1,Average
+147,148,Hannah,21,New York,Tie,100.53,2,Bad
+148,149,Alice,30,Houston,Hat,309.87,4,Average
+149,150,Ivan,39,Chicago,Shoes,287.85,-1,Excellent
+150,151,Hannah,21,Phoenix,Bag,123.77,-1,Average
+151,152,Hannah,21,Los Angeles,Watch,186.04,3,Bad
+152,153,Frank,63,Miami,Bag,243.54,2,Bad
+153,154,Judy,20,Los Angeles,Bag,306.31,3,Excellent
+154,155,Bob,21,Phoenix,Shoes,193.24,4,Excellent
+155,156,Grace,20,San Francisco,Pants,250.81,3,Bad
+156,157,Frank,66,Miami,Shirt,104.7,3,Average
+157,158,Judy,20,Miami,Socks,250,5,Excellent
+158,159,Grace,21,Phoenix,Hat,17.36,-1,Average
+159,160,Mallory,21,Los Angeles,Tie,212.39,-1,Excellent
+160,161,Alice,21,Los Angeles,Watch,494.24,3,Good
+161,162,Eve,21,San Francisco,Pants,42.41,5,Average
+162,163,Ivan,60,Chicago,Shoes,492.96,3,Average
+163,164,Eve,29,New York,Bag,250.07,4,Excellent
+164,165,Frank,21,San Francisco,Bag,234.2,2,Bad
+165,166,Bob,33,New York,Shirt,208.38,3,Good
+166,167,Ivan,21,Chicago,Socks,250,2,Good
+167,168,Hannah,21,Miami,Shirt,196.38,4,Good
+168,169,David,21,New York,Bag,309.64,-1,Bad
+169,170,Charlie,21,Phoenix,Shoes,300.96,2,Average
+170,171,Judy,20,Miami,Hat,439.13,5,Good
+171,172,unknown,54,Miami,Tie,265.12,-1,Average
+172,173,David,20,Phoenix,Pants,415.23,2,Good
+173,174,Bob,20,Houston,Bag,250,2,Bad
+174,175,Frank,33,Phoenix,Pants,264.16,-1,Bad
+175,176,Hannah,60,Dallas,Shoes,370.23,4,Good
+176,177,Frank,21,New York,Pants,262.9,1,Average
+177,178,Bob,21,Chicago,Pants,34.15,2,Good
+178,179,Eve,20,Los Angeles,Tie,205.04,2,Average
+179,180,Ivan,21,Los Angeles,Tie,415.53,1,Average
+180,181,David,62,New York,Pants,217.01,2,Average
+181,182,Grace,21,New York,Shoes,36.73,2,Good
+182,183,Hannah,20,San Francisco,Shirt,79.7,1,Good
+183,184,Ivan,32,Dallas,Shoes,231.33,4,Average
+184,185,Ivan,21,Houston,Hat,65.45,3,Average
+185,186,Judy,21,Houston,Shoes,469.54,2,Average
+186,187,Judy,20,New York,Hat,76.3,2,Bad
+187,188,Hannah,21,San Francisco,Shirt,230.93,4,Bad
+188,189,Alice,20,San Francisco,Watch,299.25,4,Average
+189,190,Ivan,20,San Francisco,Shirt,108.95,1,Average
+190,191,Judy,20,San Francisco,Hat,132.54,4,Average
+191,192,Mallory,70,Miami,Shoes,454.51,1,Excellent
+192,193,Eve,66,Dallas,Hat,362,4,Average
+193,194,Alice,20,Houston,Bag,65.94,3,Excellent
+194,195,Charlie,68,Miami,Shirt,187.84,2,Average
+195,196,Eve,21,Phoenix,Socks,198.2,5,Good
+196,197,Mallory,20,Los Angeles,Shoes,260.72,4,Average
+197,198,Eve,41,San Francisco,Shoes,195.55,4,Bad
+198,199,Frank,54,New York,Shoes,386.45,4,Excellent
+199,200,Frank,20,New York,Shoes,287.09,1,Good
+200,201,Alice,50,Dallas,Shirt,83.54,-1,Bad
+201,202,Charlie,20,Dallas,Shirt,97.64,2,Bad
+202,203,Charlie,27,Dallas,Bag,215.6,-1,Excellent
+203,204,Ivan,20,Dallas,Watch,386.63,2,Excellent
+204,205,Judy,46,Chicago,Watch,316.96,1,Bad
+205,206,Grace,61,Los Angeles,Tie,74.47,3,Bad
+206,207,Bob,20,Miami,Bag,315.05,1,Average
+207,208,Charlie,49,Chicago,Tie,234.73,2,Excellent
+208,209,Mallory,21,Chicago,Pants,276.32,-1,Excellent
+209,210,Judy,69,Houston,Socks,250,3,Average
+210,211,Alice,47,Houston,Socks,126.56,2,Bad
+211,212,Bob,21,Chicago,Shirt,243.1,-1,Average
+212,213,Mallory,20,New York,Tie,48.91,2,Average
+213,214,Hannah,20,San Francisco,Shirt,129.91,2,Average
+214,215,David,20,Los Angeles,Bag,313.69,5,Average
+215,216,Grace,21,San Francisco,Watch,414.37,-1,Excellent
+216,217,Grace,64,Houston,Socks,250,3,Good
+217,218,unknown,21,Chicago,Hat,330.11,5,Average
+218,219,Frank,70,Dallas,Bag,250,2,Average
+219,220,Charlie,65,Phoenix,Socks,336.83,5,Average
+220,221,Frank,55,New York,Shirt,156.24,2,Excellent
+221,222,Eve,21,Los Angeles,Shirt,34.03,5,Average
+222,223,Mallory,20,Los Angeles,Shoes,97.34,1,Average
+223,224,Frank,20,San Francisco,Shoes,309.43,5,Average
+224,225,Ivan,21,San Francisco,Tie,301.53,-1,Excellent
+225,226,Ivan,48,San Francisco,Shoes,96.94,5,Good
+226,227,Bob,21,San Francisco,Bag,293.69,2,Average
+227,228,Alice,29,New York,Pants,55.63,4,Average
+228,229,Charlie,20,Phoenix,Shoes,190.6,1,Average
+229,230,Charlie,20,Phoenix,Pants,43.16,2,Bad
+230,231,Ivan,21,Miami,Hat,279.73,-1,Good
+231,232,Alice,21,New York,Shirt,75.93,4,Average
+232,233,Judy,21,Dallas,Bag,144.47,2,Average
+233,234,Bob,20,Dallas,Watch,267.08,1,Good
+234,235,Eve,20,Dallas,Hat,309.91,3,Average
+235,236,unknown,20,San Francisco,Pants,367.57,1,Average
+236,237,Judy,40,Los Angeles,Pants,493.72,3,Good
+237,238,Grace,20,San Francisco,Pants,347.44,2,Average
+238,239,unknown,20,Chicago,Shirt,493.28,2,Average
+239,240,Ivan,20,Chicago,Tie,308.33,1,Good
+240,241,unknown,32,Dallas,Shirt,267.44,4,Excellent
+241,242,Grace,66,Dallas,Hat,183.39,3,Excellent
+242,243,Eve,21,Dallas,Socks,285.69,5,Excellent
+243,244,David,20,Los Angeles,Pants,319.61,1,Average
+244,245,Hannah,21,Los Angeles,Shirt,98.15,-1,Average
+245,246,Bob,21,Dallas,Shoes,357.21,3,Good
+246,247,Frank,70,Los Angeles,Shoes,10.77,2,Average
+247,248,Grace,21,Phoenix,Shoes,250,1,Bad
+248,249,Bob,40,Phoenix,Hat,67.78,1,Good
+249,250,Eve,35,New York,Tie,401.79,4,Excellent
+250,251,Judy,64,San Francisco,Pants,212.88,-1,Good
+251,252,Judy,20,Phoenix,Socks,284.6,2,Average
+252,253,Ivan,20,San Francisco,Shoes,15.54,2,Good
+253,254,unknown,67,Miami,Hat,148,4,Bad
+254,255,Hannah,33,Dallas,Shoes,160.81,4,Average
+255,256,Judy,22,Dallas,Pants,168.72,2,Good
+256,257,Eve,56,Miami,Tie,250,3,Good
+257,258,Alice,20,New York,Tie,177.27,5,Bad
+258,259,David,20,Chicago,Pants,311.84,2,Average
+259,260,Grace,21,Phoenix,Pants,250,1,Excellent
+260,261,Ivan,65,San Francisco,Bag,171.95,3,Good
+261,262,Alice,21,Chicago,Shoes,339.51,1,Good
+262,263,Alice,20,Dallas,Tie,400.65,2,Good
+263,264,David,31,Dallas,Pants,245.93,5,Good
+264,265,Eve,20,San Francisco,Shoes,447.11,4,Bad
+265,266,David,36,New York,Pants,174.2,3,Excellent
+266,267,Charlie,20,San Francisco,Watch,212.84,2,Bad
+267,268,Eve,21,New York,Pants,419.2,2,Average
+268,269,Eve,20,Houston,Bag,365.23,-1,Excellent
+269,270,Frank,20,New York,Socks,272.58,5,Excellent
+270,271,Bob,21,Miami,Tie,345.89,2,Good
+271,272,Alice,21,Phoenix,Tie,445.13,2,Average
+272,273,unknown,20,New York,Shoes,485.11,-1,Good
+273,274,Mallory,51,New York,Watch,25.27,1,Excellent
+274,275,Grace,21,New York,Shirt,316.99,-1,Bad
+275,276,Charlie,35,Phoenix,Hat,289.78,2,Average
+276,277,Charlie,20,Phoenix,Shoes,301.64,3,Excellent
+277,278,Grace,65,Phoenix,Tie,378.25,3,Average
+278,279,Hannah,20,Miami,Shoes,164.1,-1,Good
+279,280,Mallory,20,Los Angeles,Shoes,250,1,Good
+280,281,David,49,Houston,Pants,253.56,2,Excellent
+281,282,Hannah,20,Chicago,Hat,231.43,1,Good
+282,283,Hannah,21,Phoenix,Socks,115.91,5,Good
+283,284,Judy,20,Miami,Tie,64.99,5,Good
+284,285,Frank,20,New York,Pants,391.12,4,Good
+285,286,Bob,21,Phoenix,Tie,227.45,1,Excellent
+286,287,Grace,21,San Francisco,Pants,250,4,Bad
+287,288,Mallory,42,Dallas,Tie,255.03,3,Good
+288,289,Alice,20,Los Angeles,Bag,462.58,2,Excellent
+289,290,Grace,48,Houston,Watch,266.58,2,Good
+290,291,Alice,21,Miami,Pants,80.21,-1,Excellent
+291,292,unknown,63,Houston,Pants,412.85,-1,Good
+292,293,Bob,21,San Francisco,Shoes,341.59,4,Average
+293,294,Frank,20,Miami,Tie,365.04,1,Bad
+294,295,Ivan,21,Miami,Tie,359.7,1,Excellent
+295,296,Grace,20,New York,Shirt,12.01,-1,Average
+296,297,Ivan,21,New York,Hat,346.66,2,Good
+297,298,Grace,21,New York,Socks,52.67,2,Good
+298,299,Mallory,21,Chicago,Socks,32.61,4,Average
+299,300,Judy,59,Los Angeles,Pants,332.9,-1,Good
+300,301,Grace,21,Phoenix,Shirt,293,4,Good
+301,302,Eve,20,Phoenix,Shoes,447.15,3,Good
+302,303,Bob,64,San Francisco,Hat,104.35,2,Good
+303,304,Grace,21,Chicago,Bag,166.38,-1,Good
+304,305,Alice,20,Chicago,Bag,67.65,2,Good
+305,306,Frank,20,Dallas,Socks,144.08,2,Excellent
+306,307,Charlie,20,New York,Pants,250,1,Bad
+307,308,Ivan,20,Chicago,Tie,261.89,3,Bad
+308,309,unknown,20,Houston,Shirt,181.66,4,Good
+309,310,Mallory,53,Houston,Pants,79.36,-1,Excellent
+310,311,Frank,48,New York,Shoes,148.8,4,Good
+311,312,Bob,21,Houston,Tie,44.91,2,Good
+312,313,Grace,18,New York,Tie,175.98,-1,Excellent
+313,314,Bob,20,Miami,Shoes,73.74,3,Good
+314,315,David,20,New York,Bag,340.99,2,Average
+315,316,Grace,21,Dallas,Bag,36.36,5,Bad
+316,317,Ivan,20,Houston,Shirt,97.7,2,Excellent
+317,318,Grace,20,Phoenix,Shirt,300.45,3,Bad
+318,319,Hannah,21,Dallas,Shoes,352.69,2,Good
+319,320,Bob,20,Miami,Pants,163.1,1,Bad
+320,321,Grace,21,Miami,Tie,359.32,-1,Excellent
+321,322,Eve,21,San Francisco,Bag,271.41,3,Good
+322,323,Mallory,20,Los Angeles,Shoes,380.31,5,Good
+323,324,Frank,21,New York,Socks,74.58,2,Good
+324,325,David,21,Houston,Bag,460.65,4,Good
+325,326,Frank,21,Dallas,Socks,233.24,4,Good
+326,327,Charlie,47,Miami,Pants,358.01,4,Average
+327,328,Bob,20,Dallas,Shoes,123.53,4,Good
+328,329,Hannah,21,Miami,Bag,431.94,3,Good
+329,330,Judy,21,Chicago,Socks,457.3,5,Excellent
+330,331,Bob,21,Miami,Hat,352.81,5,Good
+331,332,Hannah,20,Dallas,Shoes,396.5,4,Good
+332,333,Hannah,20,Dallas,Socks,232.11,1,Average
+333,334,David,27,Dallas,Pants,250,-1,Good
+334,335,Frank,20,Dallas,Tie,182.21,4,Excellent
+335,336,Frank,20,Chicago,Tie,93.69,-1,Good
+336,337,Mallory,21,Phoenix,Shirt,306.18,3,Bad
+337,338,Judy,36,Los Angeles,Socks,60.44,5,Average
+338,339,Charlie,21,Phoenix,Pants,400.41,2,Good
+339,340,David,21,New York,Watch,328.23,4,Excellent
+340,341,Bob,54,San Francisco,Shoes,271.05,2,Good
+341,342,Charlie,20,New York,Hat,212.59,4,Good
+342,343,Eve,20,Chicago,Shirt,278.5,1,Bad
+343,344,David,21,Dallas,Watch,198.07,1,Excellent
+344,345,Charlie,21,Houston,Tie,408.82,5,Good
+345,346,Ivan,20,Houston,Bag,394.31,3,Good
+346,347,Charlie,21,Houston,Socks,395.79,4,Bad
+347,348,Judy,47,Houston,Watch,125.72,2,Bad
+348,349,Bob,21,Phoenix,Hat,48.17,2,Average
+349,350,Charlie,28,San Francisco,Shoes,291.35,2,Good
+350,351,Judy,20,San Francisco,Shoes,300.16,2,Good
+351,352,unknown,49,New York,Tie,281.99,2,Excellent
+352,353,unknown,20,New York,Bag,96.33,2,Average
+353,354,Ivan,20,Miami,Shirt,44.11,4,Bad
+354,355,Ivan,20,Chicago,Bag,408.89,5,Bad
+355,356,unknown,20,Chicago,Shoes,195.67,2,Excellent
+356,357,Judy,21,Dallas,Socks,333.48,2,Bad
+357,358,Ivan,44,New York,Hat,410.35,5,Good
+358,359,Judy,58,Houston,Pants,452.6,1,Good
+359,360,Judy,20,Phoenix,Socks,10.09,3,Bad
+360,361,Ivan,27,Dallas,Pants,83.12,4,Good
+361,362,Frank,20,Phoenix,Shirt,201.09,4,Good
+362,363,Judy,21,Phoenix,Pants,105.88,1,Good
+363,364,Frank,20,San Francisco,Socks,165.13,-1,Excellent
+364,365,Charlie,20,San Francisco,Tie,457.47,4,Excellent
+365,366,unknown,21,Dallas,Watch,472.23,3,Good
+366,367,Bob,21,Miami,Watch,491.46,2,Bad
+367,368,unknown,19,Phoenix,Bag,53.75,2,Good
+368,369,unknown,20,Houston,Socks,250,2,Bad
+369,370,Judy,44,Miami,Tie,208.06,3,Good
+370,371,Eve,20,Phoenix,Pants,154.15,-1,Average
+371,372,Eve,21,Phoenix,Tie,278.95,2,Good
+372,373,Ivan,21,Dallas,Watch,354.64,5,Good
+373,374,Alice,20,San Francisco,Socks,186.03,4,Good
+374,375,Frank,20,Dallas,Hat,434.18,3,Good
+375,376,Hannah,21,Los Angeles,Socks,354.09,5,Average
+376,377,Bob,69,New York,Bag,165.88,1,Bad
+377,378,Eve,24,New York,Bag,196.97,5,Excellent
+378,379,unknown,51,Dallas,Shoes,334.62,1,Excellent
+379,380,unknown,33,Dallas,Pants,102.23,1,Excellent
+380,381,Alice,20,Dallas,Pants,463,5,Excellent
+381,382,Alice,21,Dallas,Bag,85.59,1,Good
+382,383,Frank,21,Phoenix,Bag,338.33,5,Good
+383,384,Eve,21,Phoenix,Shoes,45.16,4,Bad
+384,385,Bob,21,Los Angeles,Watch,250,4,Bad
+385,386,Judy,54,Miami,Watch,248.48,1,Good
+386,387,Bob,62,Los Angeles,Tie,495.21,4,Good
+387,388,Ivan,20,Dallas,Pants,324.7,2,Good
+388,389,Ivan,70,Phoenix,Socks,233.45,2,Average
+389,390,Hannah,20,Dallas,Pants,306.17,5,Average
+390,391,Grace,66,Phoenix,Shirt,98.1,-1,Good
+391,392,unknown,21,Phoenix,Hat,280.5,3,Good
+392,393,Ivan,21,Phoenix,Shoes,184.1,3,Bad
+393,394,Hannah,21,Houston,Pants,306.24,3,Good
+394,395,Mallory,20,Chicago,Shirt,424.93,5,Good
+395,396,Alice,20,Chicago,Hat,255.85,1,Good
+396,397,unknown,28,Houston,Bag,277.62,-1,Excellent
+397,398,Ivan,21,New York,Socks,489.33,5,Good
+398,399,Judy,21,Dallas,Pants,355.39,1,Good
+399,400,David,54,San Francisco,Bag,245.95,1,Good
+400,401,Frank,51,Dallas,Tie,79.62,2,Good
+401,402,Ivan,32,Chicago,Shoes,491.95,2,Bad
+402,403,unknown,20,New York,Pants,391.65,4,Good
+403,404,Hannah,21,Miami,Socks,48.33,2,Average
+404,405,Charlie,20,Phoenix,Shoes,53.34,-1,Good
+405,406,Alice,21,Phoenix,Shirt,373.43,2,Good
+406,407,unknown,20,San Francisco,Pants,48.26,-1,Good
+407,408,Bob,60,San Francisco,Shoes,401.07,4,Bad
+408,409,Frank,21,San Francisco,Tie,35.86,1,Good
+409,410,Mallory,19,New York,Socks,391.48,1,Good
+410,411,Bob,55,Dallas,Shirt,261.2,4,Good
+411,412,Hannah,20,Dallas,Shirt,369.57,2,Average
+412,413,Judy,21,Houston,Watch,480.68,3,Good
+413,414,Charlie,21,Dallas,Hat,151.71,3,Bad
+414,415,Alice,20,Houston,Pants,250,5,Average
+415,416,David,20,Houston,Shirt,377.22,2,Average
+416,417,Mallory,20,Miami,Tie,286.22,4,Good
+417,418,unknown,21,Dallas,Shoes,241.85,-1,Excellent
+418,419,unknown,20,Dallas,Socks,35.29,2,Average
+419,420,Hannah,20,Phoenix,Socks,406.36,4,Good
+420,421,Hannah,64,Chicago,Tie,150.54,5,Bad
+421,422,Ivan,20,Chicago,Bag,257.74,-1,Average
+422,423,Charlie,40,Chicago,Watch,146.15,3,Good
+423,424,Frank,21,Phoenix,Tie,147.68,3,Good
+424,425,Frank,32,Los Angeles,Shoes,16.96,-1,Good
+425,426,Eve,20,Miami,Pants,95.56,-1,Bad
+426,427,Grace,20,Chicago,Shoes,84.06,2,Good
+427,428,Grace,21,Phoenix,Shoes,405.84,2,Good
+428,429,Frank,21,Phoenix,Shoes,353.38,2,Good
+429,430,Judy,20,Chicago,Hat,401.69,1,Average
+430,431,Ivan,21,Dallas,Bag,178,2,Good
+431,432,Alice,49,Los Angeles,Watch,81.08,5,Good
+432,433,Judy,20,Houston,Hat,85.53,3,Good
+433,434,Judy,21,Dallas,Shoes,496.86,-1,Good
+434,435,Frank,20,Houston,Tie,126.59,2,Excellent
+435,436,Bob,20,Phoenix,Bag,322.41,1,Good
+436,437,Frank,42,San Francisco,Bag,369.84,4,Good
+437,438,Bob,20,Dallas,Hat,324.71,5,Good
+438,439,Hannah,36,Houston,Tie,66.84,1,Average
+439,440,Judy,63,Phoenix,Pants,205.38,1,Excellent
+440,441,Grace,21,Dallas,Shoes,375.61,4,Good
+441,442,Eve,21,Phoenix,Pants,270.94,1,Good
+442,443,Eve,20,Miami,Hat,355.75,1,Average
+443,444,Mallory,20,Los Angeles,Shoes,81.12,2,Good
+444,445,Judy,21,Miami,Pants,15.81,2,Average
+445,446,Ivan,41,New York,Shirt,229.92,4,Bad
+446,447,Charlie,23,Dallas,Watch,481.26,4,Average
+447,448,Frank,21,Dallas,Socks,30.1,2,Good
+448,449,Bob,21,Dallas,Watch,322.34,4,Bad
+449,450,Ivan,24,Los Angeles,Socks,221.58,-1,Bad
+450,451,Judy,23,Miami,Socks,430.59,2,Good
+451,452,Charlie,21,Houston,Tie,140.87,2,Excellent
+452,453,Frank,20,Houston,Hat,330.63,5,Average
+453,454,Eve,21,Los Angeles,Bag,388.84,2,Excellent
+454,455,Judy,24,San Francisco,Shoes,369.81,4,Good
+455,456,Mallory,21,San Francisco,Shirt,105.51,3,Bad
+456,457,Judy,53,Phoenix,Shirt,348.24,5,Good
+457,458,Grace,20,San Francisco,Bag,278.33,-1,Good
+458,459,Charlie,21,New York,Watch,417.53,5,Good
+459,460,Ivan,42,Chicago,Bag,250,3,Good
+460,461,Mallory,21,Chicago,Tie,60.91,2,Excellent
+461,462,Bob,42,Houston,Watch,117.51,2,Good
+462,463,Eve,20,Houston,Watch,104.61,2,Average
+463,464,Hannah,20,San Francisco,Watch,250,2,Good
+464,465,Grace,51,Dallas,Hat,469.87,4,Good
+465,466,Judy,21,Miami,Tie,419.37,-1,Good
+466,467,Frank,28,Chicago,Hat,322.66,3,Excellent
+467,468,Charlie,21,Houston,Shoes,68.79,1,Good
+468,469,Judy,21,Chicago,Socks,73.65,2,Good
+469,470,Mallory,27,Los Angeles,Tie,450.95,2,Good
+470,471,Mallory,21,Miami,Shoes,483.91,1,Good
+471,472,Judy,21,Houston,Watch,350.87,2,Bad
+472,473,Hannah,21,Chicago,Pants,238.81,1,Average
+473,474,Bob,68,Houston,Socks,323,-1,Excellent
+474,475,Judy,21,New York,Bag,145.43,1,Good
+475,476,Judy,20,New York,Shirt,452.66,2,Good
+476,477,Grace,21,Miami,Bag,168.47,2,Good
+477,478,Hannah,20,Phoenix,Shirt,46.26,-1,Good
+478,479,Frank,21,Houston,Bag,197.57,1,Good
+479,480,Alice,24,Chicago,Watch,39.43,2,Bad
+480,481,Frank,37,Dallas,Watch,139.69,4,Excellent
+481,482,Eve,21,Chicago,Shirt,250.94,2,Average
+482,483,Charlie,21,Miami,Bag,309.05,2,Good
+483,484,David,21,Los Angeles,Watch,251.11,2,Good
+484,485,Frank,21,Chicago,Bag,386.67,2,Average
+485,486,unknown,20,Dallas,Tie,325.24,4,Bad
+486,487,David,56,San Francisco,Watch,360.55,-1,Good
+487,488,David,21,San Francisco,Shoes,45.73,2,Good
+488,489,Charlie,20,San Francisco,Socks,132.79,-1,Good
+489,490,Charlie,21,San Francisco,Tie,449.29,-1,Bad
+490,491,Bob,38,Miami,Shoes,323.76,5,Good
+491,492,Eve,21,San Francisco,Hat,335.66,2,Good
+492,493,Bob,20,New York,Watch,353.03,1,Good
+493,494,Hannah,20,New York,Shoes,291.57,3,Excellent
+494,495,Hannah,20,New York,Shoes,470.56,-1,Excellent
+495,496,Mallory,68,Houston,Tie,223.67,4,Excellent
+496,497,Hannah,21,Houston,Shoes,392.66,2,Good
+497,498,Alice,21,New York,Shoes,274.66,4,Good
+498,499,Judy,41,Houston,Shirt,250,4,Good
+499,500,Frank,54,Houston,Watch,410.81,1,Good
+500,501,Ivan,20,Houston,Shirt,287.95,1,Bad
+501,502,Charlie,20,New York,Socks,185.87,2,Bad
+502,503,Ivan,20,New York,Hat,206.3,2,Excellent
+503,504,Grace,20,Houston,Hat,479.82,2,Bad
+504,505,Charlie,20,Houston,Watch,271.97,2,Bad
+505,506,Charlie,21,Houston,Socks,49.42,4,Excellent
+506,507,Charlie,21,Phoenix,Watch,385.59,4,Bad
+507,508,Mallory,62,Chicago,Bag,96.54,4,Bad
+508,509,Ivan,21,Los Angeles,Bag,250,1,Bad
+509,510,Charlie,21,San Francisco,Shoes,103.59,-1,Good
+510,511,Mallory,20,San Francisco,Watch,449.27,4,Bad
+511,512,unknown,37,Dallas,Hat,186.04,5,Good
+512,513,Alice,20,Phoenix,Watch,320.07,2,Bad
+513,514,Grace,20,Chicago,Shirt,78.57,2,Average
+514,515,Frank,21,Los Angeles,Socks,362.67,3,Average
+515,516,Judy,21,New York,Watch,249.72,5,Bad
+516,517,Mallory,21,Phoenix,Shirt,274.87,-1,Average
+517,518,David,21,Phoenix,Bag,271.63,-1,Bad
+518,519,unknown,20,Miami,Pants,230.16,4,Good
+519,520,Ivan,21,Miami,Shoes,28.15,1,Bad
+520,521,Eve,52,Dallas,Watch,396.01,3,Bad
+521,522,Mallory,21,Dallas,Watch,250,1,Good
+522,523,unknown,20,Houston,Hat,405.48,1,Bad
+523,524,David,20,San Francisco,Tie,234.6,2,Good
+524,525,Hannah,23,Chicago,Watch,438.39,-1,Bad
+525,526,David,67,Houston,Pants,293.88,2,Bad
+526,527,Eve,20,Miami,Hat,28.07,4,Excellent
+527,528,unknown,40,Houston,Shoes,330.38,4,Bad
+528,529,David,20,Houston,Hat,459.83,-1,Bad
+529,530,Frank,20,Chicago,Hat,250,4,Good
+530,531,Judy,20,San Francisco,Hat,73.96,2,Good
+531,532,Ivan,21,New York,Watch,34.48,5,Excellent
+532,533,unknown,21,Houston,Hat,398.91,5,Bad
+533,534,unknown,21,Houston,Hat,93.64,2,Good
+534,535,Eve,24,Chicago,Hat,410.72,5,Good
+535,536,Grace,21,Houston,Hat,253.6,3,Good
+536,537,Hannah,20,New York,Tie,118.08,1,Bad
+537,538,Hannah,20,Dallas,Watch,218.84,4,Bad
+538,539,Grace,20,Dallas,Pants,491.27,4,Bad
+539,540,Charlie,20,Chicago,Shirt,168.88,4,Average
+540,541,David,21,Los Angeles,Shirt,292.22,5,Good
+541,542,Ivan,21,Houston,Shirt,419.85,5,Average
+542,543,Charlie,20,New York,Shoes,384.47,2,Average
+543,544,Eve,20,San Francisco,Tie,174.4,5,Bad
+544,545,Alice,50,Phoenix,Shoes,79.21,2,Excellent
+545,546,Judy,40,Phoenix,Bag,351.18,-1,Bad
+546,547,unknown,48,Dallas,Shoes,224.94,-1,Average
+547,548,Frank,21,New York,Shoes,29.94,4,Bad
+548,549,Hannah,23,Dallas,Watch,425.21,2,Bad
+549,550,Bob,64,New York,Tie,391.05,2,Bad
+550,551,Mallory,21,Los Angeles,Beg,250,1,Bad
+551,552,Hannah,21,New York,Shoes,13.11,5,Excellent
+552,553,Bob,68,New York,Tie,53.68,1,Good
+553,554,Eve,21,Los Angeles,Watch,444.59,4,Excellent
+554,555,Bob,21,San Francisco,Shoes,405.63,5,Good
+555,556,Charlie,21,Miami,Pants,349.26,3,Good
+556,557,Eve,20,San Francisco,Bag,323.51,5,Average
+557,558,unknown,21,Los Angeles,Watch,211.9,1,Bad
+558,559,Hannah,21,Los Angeles,Socks,309.16,3,Bad
+559,560,Charlie,20,Phoenix,Hat,250,2,Bad
+560,561,Grace,25,Miami,Tie,254.94,4,Excellent
+561,562,Bob,20,Chicago,Pants,317.32,4,Excellent
+562,563,David,20,Houston,Shoes,180.45,1,Average
+563,564,unknown,69,New York,Bag,250,4,Bad
+564,565,Frank,65,Phoenix,Socks,67.58,5,Bad
+565,566,Alice,51,San Francisco,Shoes,56.89,2,Excellent
+566,567,Grace,53,Los Angeles,Bag,382.95,3,Average
+567,568,Alice,20,Los Angeles,Shoes,117.45,4,Average
+568,569,Grace,21,Phoenix,Bag,333.07,2,Bad
+569,570,Hannah,21,Dallas,Beg,104.92,4,Average
+570,571,Frank,58,Dallas,Socks,345.77,1,Excellent
+571,572,David,20,Chicago,Pants,242.46,2,Bad
+572,573,Grace,21,San Francisco,Shoes,338.37,3,Bad
+573,574,Bob,43,Los Angeles,Shirt,250,2,Average
+574,575,Frank,20,Los Angeles,Bag,149.68,2,Average
+575,576,David,21,Dallas,Shoes,173.8,4,Excellent
+576,577,Alice,21,Los Angeles,Beg,381.62,3,Bad
+577,578,Frank,42,Phoenix,Shoes,250,4,Bad
+578,579,Bob,63,Los Angeles,Shoes,463.18,2,Good
+579,580,Mallory,21,Los Angeles,Hat,394.89,5,Good
+580,581,Judy,20,Miami,Socks,66.87,2,Average
+581,582,Frank,69,Houston,Tie,363.49,5,Bad
+582,583,Charlie,54,Dallas,Shirt,169.73,2,Excellent
+583,584,Charlie,20,Houston,Beg,341.66,3,Bad
+584,585,Alice,21,Phoenix,Beg,391.7,5,Bad
+585,586,Eve,38,Phoenix,Tie,58.05,-1,Average
+586,587,unknown,47,Houston,Watch,436.24,-1,Good
+587,588,Mallory,20,Houston,Pants,118.12,2,Bad
+588,589,Charlie,20,San Francisco,Bag,247.36,2,Bad
+589,590,Mallory,21,Phoenix,Watch,81.02,4,Bad
+590,591,unknown,21,Chicago,Hat,232.95,2,Bad
+591,592,unknown,21,New York,Watch,76.84,3,Average
+592,593,Ivan,55,New York,Shoes,319.69,2,Excellent
+593,594,Alice,21,Miami,Tie,109.08,2,Bad
+594,595,Bob,20,Houston,Beg,349.18,4,Bad
+595,596,Alice,20,Miami,Beg,76.89,4,Good
+596,597,Eve,21,Houston,Pants,234.7,-1,Average
+597,598,David,20,Houston,Shoes,178.35,2,Excellent
+598,599,Charlie,20,New York,Socks,305.78,2,Bad
+599,600,Hannah,21,New York,Hat,322.62,2,Good
+600,601,Mallory,25,Los Angeles,Socks,93.27,3,Bad
+601,602,Ivan,37,Los Angeles,Beg,428.95,-1,Excellent
+602,603,Hannah,21,Dallas,Beg,429.92,4,Bad
+603,604,Grace,62,Miami,Socks,497.88,-1,Excellent
+604,605,Bob,21,Chicago,Watch,420.12,-1,Bad
+605,606,Eve,20,Los Angeles,Shoes,367.71,2,Good
+606,607,David,20,Los Angeles,Pants,130.86,5,Good
+607,608,Eve,21,Los Angeles,Tie,293.94,2,Bad
+608,609,Bob,21,Los Angeles,Pants,299.97,3,Good
+609,610,Alice,20,Phoenix,Tie,291.11,2,Average
+610,611,David,20,Houston,Hat,250,2,Average
+611,612,Grace,20,Miami,Shirt,29.63,1,Bad
+612,613,Judy,21,Phoenix,Watch,386.62,2,Bad
+613,614,Ivan,36,Phoenix,Hat,250,4,Average
+614,615,unknown,21,Miami,Bag,244.84,2,Good
+615,616,Bob,20,New York,Socks,412.43,2,Good
+616,617,Bob,21,Los Angeles,Socks,127.85,2,Average
+617,618,unknown,21,Chicago,Hat,16.09,2,Bad
+618,619,Ivan,26,New York,Pants,475.47,5,Bad
+619,620,Hannah,21,Phoenix,Pants,154.94,4,Bad
+620,621,Alice,20,Houston,Shoes,54.46,1,Good
+621,622,Judy,21,Houston,Shoes,159.37,-1,Bad
+622,623,Hannah,20,San Francisco,Pants,430.38,4,Bad
+623,624,Ivan,21,Los Angeles,Socks,21.96,4,Bad
+624,625,David,21,Los Angeles,Shoes,388.2,3,Good
+625,626,Mallory,49,New York,Pants,208.63,2,Bad
+626,627,Charlie,20,New York,Bag,191.51,2,Bad
+627,628,Eve,19,Chicago,Bag,320.37,5,Bad
+628,629,Grace,36,Chicago,Beg,44.64,1,Bad
+629,630,Alice,35,Chicago,Shoes,173.12,1,Excellent
+630,631,Ivan,21,Chicago,Watch,250,3,Bad
+631,632,Frank,21,Miami,Watch,142.2,3,Bad
+632,633,David,20,Dallas,Bag,275.79,3,Good
+633,634,Ivan,21,Phoenix,Tie,395.97,2,Excellent
+634,635,Grace,20,Los Angeles,Shoes,441.62,2,Average
+635,636,Charlie,20,Chicago,Socks,36.86,2,Good
+636,637,Judy,21,Chicago,Shirt,340.58,-1,Bad
+637,638,Judy,20,Chicago,Pants,64.37,-1,Average
+638,639,Bob,21,Los Angeles,Shoes,313.38,5,Good
+639,640,Hannah,52,San Francisco,Hat,95.88,1,Bad
+640,641,Frank,20,San Francisco,Watch,42.83,-1,Average
+641,642,Bob,20,Miami,Shoes,110.31,1,Average
+642,643,Hannah,21,Phoenix,Shirt,126.93,3,Bad
+643,644,Hannah,20,San Francisco,Shoes,244.46,4,Bad
+644,645,Hannah,59,Miami,Beg,294.26,1,Good
+645,646,Hannah,37,San Francisco,Watch,112.8,5,Average
+646,647,Hannah,21,Chicago,Beg,120.46,2,Excellent
+647,648,Alice,40,Los Angeles,Tie,141.01,1,Bad
+648,649,Grace,46,Chicago,Bag,145.8,5,Bad
+649,650,unknown,67,New York,Bag,179.16,2,Bad
+650,651,Alice,20,Chicago,Watch,268.07,4,Excellent
+651,652,Judy,20,Los Angeles,Tie,357.81,3,Excellent
+652,653,Grace,20,San Francisco,Shoes,271.1,3,Good
+653,654,Frank,20,Dallas,Socks,314.27,-1,Good
+654,655,Eve,45,Miami,Shirt,473.23,3,Bad
+655,656,Mallory,57,Dallas,Tie,471.03,-1,Bad
+656,657,Alice,68,Miami,Tie,447.03,1,Excellent
+657,658,Frank,70,Chicago,Hat,49.28,-1,Excellent
+658,659,Bob,69,Dallas,Tie,151.3,5,Average
+659,660,Frank,21,San Francisco,Tie,63.59,3,Bad
+660,661,David,21,Chicago,Bag,351.57,2,Bad
+661,662,Mallory,20,Dallas,Pants,438.75,-1,Bad
+662,663,Judy,21,New York,Watch,317.37,2,Bad
+663,664,Judy,21,Chicago,Tie,485.09,-1,Excellent
+664,665,Bob,20,Miami,Tie,74.69,5,Bad
+665,666,Ivan,20,Miami,Bag,227.49,5,Bad
+666,667,Mallory,61,Los Angeles,Shoes,152.84,2,Average
+667,668,Frank,21,San Francisco,Shoes,437.18,1,Bad
+668,669,Charlie,21,Miami,Shirt,474.25,2,Bad
+669,670,Alice,59,New York,Socks,211.73,1,Bad
+670,671,Frank,62,Los Angeles,Tie,326.57,4,Excellent
+671,672,Hannah,33,Phoenix,Watch,300.75,-1,Bad
+672,673,Frank,21,Chicago,Shoes,422.53,4,Bad
+673,674,Judy,20,New York,Pants,159,-1,Good
+674,675,Charlie,21,New York,Pants,396.78,-1,Average
+675,676,Judy,20,Dallas,Tie,137.4,1,Excellent
+676,677,unknown,21,Dallas,Socks,485.65,1,Average
+677,678,Mallory,21,Houston,Tie,33.19,-1,Good
+678,679,unknown,21,Chicago,Tie,233.4,5,Bad
+679,680,Judy,20,Chicago,Socks,462.82,5,Bad
+680,681,Charlie,68,Chicago,Shirt,149.77,-1,Average
+681,682,Charlie,20,Dallas,Shirt,421.27,-1,Average
+682,683,Bob,21,Los Angeles,Pants,336.51,1,Bad
+683,684,Mallory,21,San Francisco,Tie,126.57,-1,Bad
+684,685,unknown,21,Houston,Hat,250,5,Good
+685,686,Alice,20,Miami,Tie,71.97,1,Bad
+686,687,Eve,20,Chicago,Tie,100.4,5,Average
+687,688,David,20,San Francisco,Watch,27,1,Average
+688,689,Alice,20,Chicago,Watch,178.49,2,Average
+689,690,David,20,Chicago,Tie,274.53,2,Excellent
+690,691,Alice,40,Dallas,Socks,157.76,1,Average
+691,692,Frank,20,New York,Watch,208.24,-1,Excellent
+692,693,Eve,43,New York,Shoes,81.24,2,Bad
+693,694,Hannah,45,Chicago,Tie,166.91,3,Good
+694,695,Grace,21,Chicago,Tie,250,2,Good
+695,696,Hannah,21,Miami,Bag,488.04,2,Average
+696,697,unknown,20,Miami,Shoes,355.67,3,Bad
+697,698,Eve,54,Chicago,Socks,152.02,2,Excellent
+698,699,Alice,21,Los Angeles,Pants,490.54,4,Average
+699,700,Judy,21,Miami,Pants,82.07,-1,Average
+700,701,David,61,Chicago,Shoes,454.37,5,Bad
+701,702,Eve,20,Houston,Pants,347.68,4,Bad
+702,703,Frank,21,Chicago,Hat,451.09,2,Bad
+703,704,Alice,19,Phoenix,Watch,279.97,-1,Good
+704,705,Judy,21,New York,Shirt,206.8,1,Bad
+705,706,Frank,47,New York,Hat,228.53,2,Good
+706,707,Eve,45,Houston,Pants,36.97,2,Bad
+707,708,Bob,62,Houston,Socks,295.88,3,Good
+708,709,Frank,21,San Francisco,Shirt,468.48,3,Average
+709,710,Grace,21,San Francisco,Shirt,21.05,-1,Bad
+710,711,Grace,20,Houston,Shirt,228.27,2,Excellent
+711,712,Mallory,21,Los Angeles,Shoes,52.81,1,Bad
+712,713,unknown,21,Miami,Bag,105.28,-1,Bad
+713,714,Grace,20,Miami,Shoes,306.49,2,Bad
+714,715,Frank,28,Dallas,Shoes,455.14,4,Good
+715,716,Charlie,20,Miami,Socks,82.49,4,Bad
+716,717,unknown,20,Los Angeles,Bag,191.12,-1,Good
+717,718,Mallory,62,Miami,Shirt,149.48,-1,Average
+718,719,unknown,20,Miami,Shirt,488.99,1,Bad
+719,720,Frank,20,Chicago,Watch,52.92,2,Bad
+720,721,Hannah,24,Los Angeles,Tie,227.67,-1,Average
+721,722,Eve,21,Miami,Pants,403.81,-1,Good
+722,723,Bob,22,New York,Shirt,404.78,4,Bad
+723,724,Mallory,55,Los Angeles,Socks,217.68,3,Bad
+724,725,Grace,20,San Francisco,Watch,78.39,3,Average
+725,726,Bob,46,San Francisco,Hat,52.18,5,Average
+726,727,Grace,20,New York,Hat,242.56,2,Average
+727,728,Ivan,39,New York,Watch,493.45,1,Bad
+728,729,Charlie,20,New York,Shoes,480.45,3,Bad
+729,730,Hannah,21,New York,Pants,53.34,3,Bad
+730,731,Eve,22,Los Angeles,Pants,458.06,2,Excellent
+731,732,Frank,42,Dallas,Bag,282.35,-1,Bad
+732,733,Bob,64,Dallas,Pants,380.07,4,Bad
+733,734,Bob,21,Phoenix,Shoes,101.14,3,Bad
+734,735,Frank,21,Phoenix,Shoes,281.39,2,Excellent
+735,736,Judy,21,Phoenix,Tie,250,2,Good
+736,737,Eve,67,Houston,Tie,418.95,2,Bad
+737,738,Eve,20,Miami,Shoes,284.05,2,Good
+738,739,unknown,27,Chicago,Shoes,23.15,-1,Excellent
+739,740,Ivan,20,Chicago,Bag,250,-1,Good
+740,741,Mallory,20,New York,Watch,478.45,5,Bad
+741,742,Grace,59,Houston,Bag,241.55,4,Excellent
+742,743,Charlie,21,Miami,Shoes,447.42,-1,Bad
+743,744,Mallory,64,Chicago,Pants,251.02,2,Bad
+744,745,unknown,20,Chicago,Bag,129.93,2,Bad
+745,746,Frank,21,Dallas,Pants,145.84,-1,Average
+746,747,unknown,20,Dallas,Tie,42.7,4,Good
+747,748,Alice,46,Miami,Tie,294.72,4,Bad
+748,749,Mallory,23,Los Angeles,Shoes,435.49,4,Excellent
+749,750,Frank,26,Miami,Tie,243.26,4,Bad
+750,751,Ivan,20,Los Angeles,Socks,68.6,-1,Good
+751,752,Grace,21,Los Angeles,Bag,291.88,5,Excellent
+752,753,Eve,21,Houston,Bag,89.8,-1,Average
+753,754,Judy,68,New York,Watch,166.64,2,Average
+754,755,Alice,21,Los Angeles,Hat,76.39,3,Good
+755,756,Bob,59,Los Angeles,Shoes,143.61,1,Excellent
+756,757,Judy,20,Phoenix,Bag,456.93,4,Average
+757,758,Judy,20,Phoenix,Hat,152.03,2,Bad
+758,759,Grace,20,Phoenix,Shirt,468.8,-1,Excellent
+759,760,Frank,20,Los Angeles,Shoes,385.56,1,Good
+760,761,Hannah,20,Los Angeles,Watch,56.31,2,Bad
+761,762,Mallory,37,New York,Hat,276.42,-1,Bad
+762,763,Judy,20,Chicago,Socks,415.14,5,Average
+763,764,Charlie,50,Miami,Watch,157.53,1,Good
+764,765,Alice,21,Chicago,Pants,347.29,1,Good
+765,766,Charlie,20,San Francisco,Watch,294.22,3,Bad
+766,767,Ivan,21,Los Angeles,Shoes,16.32,3,Bad
+767,768,Judy,21,Phoenix,Shoes,192.78,4,Good
+768,769,unknown,25,Dallas,Bag,176.75,-1,Excellent
+769,770,Alice,20,Houston,Pants,60.18,2,Good
+770,771,Charlie,56,Houston,Hat,118.35,4,Bad
+771,772,Bob,51,Los Angeles,Watch,449.56,1,Bad
+772,773,David,21,San Francisco,Shoes,417.39,4,Average
+773,774,Judy,21,Houston,Bag,270.73,-1,Excellent
+774,775,Frank,21,Miami,Shoes,380.59,1,Average
+775,776,Frank,20,Houston,Shoes,235.64,2,Excellent
+776,777,Grace,61,Los Angeles,Shoes,411.23,2,Excellent
+777,778,Ivan,21,Los Angeles,Watch,244.96,2,Good
+778,779,Alice,67,San Francisco,Shoes,187.66,5,Excellent
+779,780,Ivan,20,New York,Socks,445.97,1,Excellent
+780,781,Charlie,22,Dallas,Watch,384.16,2,Average
+781,782,Judy,34,Los Angeles,Tie,357.85,2,Bad
+782,783,unknown,20,Miami,Hat,250,-1,Good
+783,784,Frank,21,Miami,Shoes,118.96,2,Average
+784,785,Frank,21,Dallas,Bag,79.76,5,Excellent
+785,786,unknown,20,Dallas,Hat,71.42,3,Average
+786,787,Bob,21,Chicago,Hat,48.52,4,Average
+787,788,Ivan,20,Miami,Socks,394.17,4,Excellent
+788,789,Charlie,43,New York,Bag,389.6,2,Excellent
+789,790,Hannah,20,New York,Socks,30.83,2,Average
+790,791,Frank,20,New York,Socks,398.6,5,Excellent
+791,792,Grace,21,New York,Hat,39.04,-1,Average
+792,793,Frank,21,San Francisco,Pants,133.98,3,Excellent
+793,794,Judy,20,Dallas,Socks,337.12,2,Good
+794,795,Eve,31,Miami,Socks,393.36,2,Bad
+795,796,David,21,Miami,Hat,110.65,3,Average
+796,797,Bob,20,Chicago,Watch,100.54,3,Good
+797,798,Alice,20,Dallas,Shirt,54.48,1,Average
+798,799,Mallory,20,Chicago,Socks,471.5,-1,Bad
+799,800,Charlie,21,Chicago,Hat,180.44,3,Excellent
+800,801,unknown,21,Los Angeles,Bag,255.31,5,Good
+801,802,Hannah,64,San Francisco,Tie,128.49,5,Good
+802,803,Grace,21,Dallas,Watch,58.56,2,Excellent
+803,804,Hannah,21,Dallas,Watch,16.85,2,Bad
+804,805,Bob,21,Los Angeles,Bag,103.86,4,Average
+805,806,Eve,20,Los Angeles,Watch,451.81,4,Excellent
+806,807,Eve,21,San Francisco,Socks,487.05,2,Excellent
+807,808,Mallory,20,San Francisco,Hat,114.87,2,Excellent
+808,809,unknown,20,Dallas,Shirt,356.8,5,Excellent
+809,810,David,29,Houston,Pants,298.8,5,Excellent
+810,811,Ivan,20,Phoenix,Pants,479.3,-1,Excellent
+811,812,Eve,20,San Francisco,Watch,183.86,5,Average
+812,813,Mallory,18,Los Angeles,Shirt,114.99,2,Bad
+813,814,unknown,21,Phoenix,Shoes,65.29,4,Excellent
+814,815,David,20,Miami,Tie,70.57,2,Excellent
+815,816,Bob,20,Chicago,Shoes,76.6,3,Good
+816,817,Charlie,34,Chicago,Watch,355.32,-1,Excellent
+817,818,Bob,41,San Francisco,Tie,29.9,-1,Excellent
+818,819,unknown,21,Dallas,Shoes,66.7,2,Bad
+819,820,Charlie,64,Dallas,Hat,304.19,4,Excellent
+820,821,Mallory,67,Phoenix,Hat,488.33,-1,Excellent
+821,822,unknown,21,Phoenix,Shoes,281.42,2,Good
+822,823,Bob,20,Los Angeles,Pants,429.13,3,Good
+823,824,Judy,21,Los Angeles,Shoes,44.11,1,Bad
+824,825,Frank,20,Houston,Bag,243.08,1,Excellent
+825,826,Judy,58,Houston,Shoes,97.86,5,Excellent
+826,827,Frank,21,Houston,Pants,250.91,3,Excellent
+827,828,Mallory,21,Dallas,Shirt,224.65,4,Excellent
+828,829,Bob,21,Phoenix,Watch,51.65,2,Excellent
+829,830,Hannah,54,Los Angeles,Watch,206.31,2,Excellent
+830,831,Hannah,41,Chicago,Pants,59.84,2,Excellent
+831,832,Eve,34,Chicago,Shoes,489.15,2,Excellent
+832,833,Eve,20,Chicago,Shoes,487.85,5,Excellent
+833,834,Charlie,64,Chicago,Hat,301.53,5,Good
+834,835,Mallory,20,Los Angeles,Shirt,70.15,3,Excellent
+835,836,Mallory,50,Los Angeles,Pants,365.35,2,Good
+836,837,Mallory,20,Los Angeles,Shoes,359.61,1,Excellent
+837,838,Judy,33,Los Angeles,Shoes,143.76,5,Excellent
+838,839,Charlie,21,Miami,Hat,325.48,5,Excellent
+839,840,Frank,42,Dallas,Hat,243.15,3,Excellent
+840,841,Hannah,29,Dallas,Socks,208.18,5,Excellent
+841,842,David,20,San Francisco,Watch,146.66,3,Excellent
+842,843,Bob,20,San Francisco,Shoes,62.94,-1,Average
+843,844,David,44,Phoenix,Hat,253.66,2,Average
+844,845,Charlie,38,San Francisco,Shoes,75.96,2,Bad
+845,846,David,20,New York,Shoes,35.9,1,Excellent
+846,847,unknown,21,New York,Hat,342.27,1,Average
+847,848,Alice,70,Los Angeles,Shirt,197.49,-1,Bad
+848,849,Frank,21,New York,Pants,84.84,5,Average
+849,850,Hannah,20,San Francisco,Shoes,57.2,5,Bad
+850,851,Ivan,61,Chicago,Watch,378.29,3,Average
+851,852,Frank,29,New York,Socks,398.44,2,Bad
+852,853,unknown,20,New York,Shirt,334.43,-1,Excellent
+853,854,Hannah,21,Houston,Bag,138.22,-1,Average
+854,855,Charlie,21,Phoenix,Shoes,431.24,3,Excellent
+855,856,Ivan,21,Chicago,Pants,476.76,2,Good
+856,857,Bob,38,Phoenix,Hat,250,4,Excellent
+857,858,Bob,21,Phoenix,Watch,458.32,5,Bad
+858,859,Eve,21,Chicago,Socks,164.13,1,Excellent
+859,860,Grace,21,New York,Shoes,235.23,2,Excellent
+860,861,Mallory,21,Phoenix,Shirt,250,1,Excellent
+861,862,Mallory,20,Houston,Hat,431.58,-1,Average
+862,863,unknown,21,Houston,Socks,355.97,3,Good
+863,864,Hannah,20,New York,Shoes,75.9,3,Average
+864,865,Grace,49,Los Angeles,Hat,248.85,2,Excellent
+865,866,Grace,20,Miami,Shoes,340.76,5,Excellent
+866,867,Ivan,66,Los Angeles,Hat,345.83,3,Good
+867,868,Bob,27,Dallas,Shoes,243.2,1,Average
+868,869,Charlie,44,Dallas,Shirt,258.28,1,Excellent
+869,870,Frank,20,Houston,Bag,252.4,-1,Excellent
+870,871,Judy,20,Houston,Hat,312.3,2,Excellent
+871,872,Bob,62,San Francisco,Shoes,489.11,1,Bad
+872,873,unknown,39,Houston,Socks,23.79,4,Excellent
+873,874,unknown,20,Houston,Watch,250,3,Excellent
+874,875,Judy,20,Phoenix,Hat,180.95,5,Bad
+875,876,Hannah,21,New York,Pants,23.18,2,Excellent
+876,877,Frank,24,San Francisco,Shoes,177.22,1,Bad
+877,878,Charlie,51,San Francisco,Bag,179.12,4,Excellent
+878,879,Hannah,21,San Francisco,Bag,182.12,3,Bad
+879,880,Judy,21,Los Angeles,Shirt,131.33,2,Excellent
+880,881,Ivan,21,Los Angeles,Watch,300.34,-1,Excellent
+881,882,Charlie,23,New York,Shoes,42.1,2,Excellent
+882,883,Charlie,20,New York,Watch,175.42,5,Excellent
+883,884,Grace,20,Phoenix,Hat,250,5,Bad
+884,885,Hannah,21,Houston,Hat,235.85,2,Excellent
+885,886,Alice,65,Dallas,Shoes,288.34,2,Average
+886,887,Bob,55,Miami,Hat,140.64,2,Average
+887,888,Hannah,50,Houston,Shirt,298.11,5,Average
+888,889,Charlie,21,Phoenix,Hat,195.09,-1,Average
+889,890,Eve,20,Dallas,Socks,290.54,5,Good
+890,891,Charlie,54,Dallas,Hat,59.03,2,Good
+891,892,Charlie,20,Dallas,Shoes,174.62,3,Excellent
+892,893,Frank,26,Houston,Pants,384.8,3,Excellent
+893,894,Mallory,21,Houston,Watch,311.27,3,Excellent
+894,895,David,21,Phoenix,Tie,223.64,2,Bad
+895,896,Frank,20,Miami,Shirt,425.19,-1,Excellent
+896,897,Hannah,21,Chicago,Socks,421.79,-1,Excellent
+897,898,Eve,21,Los Angeles,Hat,150.8,2,Excellent
+898,899,Bob,32,Chicago,Shoes,250,5,Bad
+899,900,Eve,30,Chicago,Shoes,206.99,2,Bad
+900,901,David,20,Chicago,Tie,374.02,2,Excellent
+901,902,Judy,24,Los Angeles,Shoes,423.65,2,Good
+902,903,Hannah,24,San Francisco,Tie,175.05,4,Bad
+903,904,Eve,21,New York,Pants,402.58,5,Good
+904,905,Charlie,21,San Francisco,Hat,112.77,2,Excellent
+905,906,Judy,20,Phoenix,Shirt,329.25,2,Average
+906,907,Eve,40,Phoenix,Hat,404.02,1,Excellent
+907,908,Ivan,21,Phoenix,Pants,274.57,3,Excellent
+908,909,Hannah,21,Chicago,Shoes,207.13,5,Excellent
+909,910,Bob,25,Chicago,Shirt,232.08,5,Excellent
+910,911,Hannah,20,Dallas,Tie,98.49,2,Good
+911,912,Judy,20,Phoenix,Socks,250,-1,Bad
+912,913,Charlie,20,New York,Shoes,432.73,-1,Good
+913,914,Ivan,20,Phoenix,Shoes,114.35,3,Excellent
+914,915,Ivan,38,Miami,Socks,373.68,4,Good
+915,916,Charlie,20,Chicago,Pants,469.21,1,Excellent
+916,917,Charlie,21,New York,Bag,311.07,2,Bad
+917,918,Judy,20,Chicago,Shirt,222.52,2,Good
+918,919,Ivan,20,Phoenix,Pants,317.11,4,Bad
+919,920,Mallory,21,Dallas,Shoes,188.49,-1,Excellent
+920,921,Ivan,70,New York,Hat,83.73,4,Excellent
+921,922,Frank,21,Dallas,Socks,157.14,1,Excellent
+922,923,Ivan,20,Phoenix,Bag,166.14,1,Excellent
+923,924,Alice,20,Miami,Socks,41.57,1,Average
+924,925,Alice,33,Dallas,Shoes,212.09,4,Bad
+925,926,Bob,47,Dallas,Hat,326.56,2,Excellent
+926,927,Alice,69,Phoenix,Shoes,304.6,4,Excellent
+927,928,Judy,25,Los Angeles,Socks,65.64,2,Excellent
+928,929,Ivan,21,Phoenix,Socks,130.34,4,Bad
+929,930,Eve,26,Phoenix,Pants,237.44,1,Excellent
+930,931,Judy,21,Houston,Watch,223.71,3,Average
+931,932,David,20,Chicago,Shoes,28.13,2,Good
+932,933,Ivan,20,Chicago,Shoes,76.85,5,Average
+933,934,Grace,20,Los Angeles,Shoes,403.73,4,Average
+934,935,Ivan,21,Los Angeles,Bag,96.23,5,Excellent
+935,936,Judy,70,Chicago,Watch,482.26,5,Excellent
+936,937,Alice,19,San Francisco,Bag,19.76,5,Excellent
+937,938,unknown,20,San Francisco,Shoes,51.13,-1,Good
+938,939,Judy,46,San Francisco,Hat,434.91,4,Excellent
+939,940,Hannah,21,San Francisco,Tie,209.43,-1,Good
+940,941,Eve,25,Los Angeles,Pants,332.14,3,Good
+941,942,Judy,47,Phoenix,Bag,472.15,5,Excellent
+942,943,Eve,20,Houston,Socks,78.87,4,Average
+943,944,unknown,20,Houston,Socks,369.9,2,Excellent
+944,945,David,21,Phoenix,Shoes,265.76,4,Excellent
+945,946,Judy,21,Phoenix,Watch,475.34,4,Excellent
+946,947,Grace,21,Phoenix,Tie,133.39,2,Excellent
+947,948,Eve,21,Phoenix,Bag,126.66,4,Excellent
+948,949,unknown,31,Houston,Pants,405.28,2,Excellent
+949,950,Bob,21,Dallas,Shirt,296.32,4,Average
+950,951,Mallory,46,Dallas,Bag,376.7,-1,Excellent
+951,952,Alice,20,Miami,Pants,217.21,2,Excellent
+952,953,Charlie,20,Miami,Shoes,95.83,2,Bad
+953,954,unknown,20,New York,Watch,225.34,5,Excellent
+954,955,Grace,21,Los Angeles,Watch,298.85,2,Bad
+955,956,unknown,20,Phoenix,Bag,193.61,4,Excellent
+956,957,unknown,48,Miami,Socks,165.08,2,Excellent
+957,958,David,21,Houston,Shoes,344.54,4,Excellent
+958,959,Frank,42,Dallas,Shoes,440.92,2,Good
+959,960,Ivan,44,Dallas,Bag,187.87,2,Bad
+960,961,Charlie,20,Houston,Socks,412.47,5,Good
+961,962,Frank,20,New York,Pants,250,-1,Excellent
+962,963,Mallory,20,Phoenix,Shoes,306.85,5,Excellent
+963,964,Frank,68,San Francisco,Tie,334.49,1,Average
+964,965,Mallory,20,Los Angeles,Socks,348.43,2,Excellent
+965,966,Frank,21,San Francisco,Tie,127.44,2,Excellent
+966,967,Grace,21,Phoenix,Hat,161.54,4,Excellent
+967,968,Charlie,20,Phoenix,Socks,187.8,4,Excellent
+968,969,Frank,21,Phoenix,Shirt,69.81,1,Average
+969,970,Hannah,21,New York,Bag,430.25,2,Excellent
+970,971,Hannah,29,New York,Socks,455.8,2,Bad
+971,972,Bob,20,Phoenix,Hat,489.22,5,Excellent
+972,973,Frank,32,Phoenix,Bag,54.22,3,Excellent
+973,974,David,21,Phoenix,Shoes,125.38,1,Excellent
+974,975,unknown,21,Miami,Bag,446.22,5,Average
+975,976,Bob,21,Miami,Pants,319.36,-1,Good
+976,977,Eve,20,New York,Tie,385.7,4,Bad
+977,978,unknown,32,Phoenix,Watch,26.6,1,Average
+978,979,David,24,Houston,Socks,413.37,1,Excellent
+979,980,Charlie,60,Phoenix,Socks,240.83,3,Average
+980,981,Bob,20,Phoenix,Socks,422.17,5,Good
+981,982,Alice,20,Los Angeles,Shirt,439.61,3,Excellent
+982,983,Eve,21,Los Angeles,Shirt,413.96,1,Excellent
+983,984,Grace,21,Chicago,Bag,258.1,5,Excellent
+984,985,Ivan,40,Chicago,Shirt,305.04,2,Excellent
+985,986,Grace,29,Chicago,Shoes,371.51,1,Excellent
+986,987,David,21,New York,Pants,23.4,3,Excellent
+987,988,Charlie,20,Los Angeles,Pants,324.38,3,Average
+988,989,Frank,21,Houston,Shoes,397.6,3,Average
+989,990,Ivan,55,Houston,Hat,206.32,3,Excellent
+990,991,Mallory,20,San Francisco,Shirt,163.72,3,Average
+991,992,Frank,20,Los Angeles,Shoes,87.33,4,Bad
+992,993,David,54,Houston,Hat,485.14,1,Bad
+993,994,Charlie,54,Houston,Shirt,383.95,-1,Good
+994,995,unknown,21,San Francisco,Shoes,346.02,2,Excellent
+995,996,Hannah,21,Los Angeles,Tie,166.51,2,Excellent
+996,997,unknown,21,Chicago,Socks,370.23,-1,Bad
+997,998,unknown,20,New York,Shoes,346.86,5,Excellent
+998,999,Eve,21,Miami,Bag,401.77,4,Excellent
+999,1000,unknown,56,Miami,Tie,213.1,1,Average
